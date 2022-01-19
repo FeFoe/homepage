@@ -1,5 +1,9 @@
 baseURL = "https://Foerster.engineer"
+<<<<<<< HEAD
 title = "Felix Förster"
+=======
+title = "Foerster.engineer"
+>>>>>>> 3de00a6 (Website Content & Style updated)
 theme = "hugo-coder"
 languageCode = "de"
 defaultContentLanguage = "de"
@@ -134,7 +138,11 @@ url = "contact/"
 
 [languages.en]
 languageName = ":uk:"
+<<<<<<< HEAD
 title = "Felix Förster"
+=======
+title = "Foerster.Engineer"
+>>>>>>> 3de00a6 (Website Content & Style updated)
 
 [languages.en.params]
 author = "Felix Foerster"

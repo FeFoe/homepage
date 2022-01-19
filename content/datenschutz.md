@@ -26,10 +26,18 @@ Stand: 18\. Januar 2022
 *   [Löschung von Daten](#löschung-von-daten)
 *   [Bereitstellung des Onlineangebotes und Webhosting](#bereitstellung-des-onlineangebotes-und-webhosting)
 *   [Präsenzen in sozialen Netzwerken (Social Media)](#präsenzen-in-sozialen-netzwerken-social-media)
+<<<<<<< HEAD
 *   [Änderung und Aktualisierung der Datenschutzerklärung](#änderung-und-aktualisierung-der-datenschutzerklärung)
 *   [Rechte der betroffenen Personen](#rechte-der-betroffenen-personen)
 *   [Begriffsdefinitionen](#begriffsdefinitionen)
 *   [Cloud-Dienste](#cloud-dienste-nextcloud)
+=======
+*   [Cloud-Dienste](#cloud-dienste-nextcloud)
+*   [Änderung und Aktualisierung der Datenschutzerklärung](#änderung-und-aktualisierung-der-datenschutzerklärung)
+*   [Rechte der betroffenen Personen](#rechte-der-betroffenen-personen)
+*   [Begriffsdefinitionen](#begriffsdefinitionen)
+
+>>>>>>> 3de00a6 (Website Content & Style updated)
 
 # Verantwortlicher
 
@@ -143,7 +151,43 @@ Auch im Fall von Auskunftsanfragen und der Geltendmachung von Betroffenenrechten
 
 
 # Cloud-Dienste (Nextcloud)
+<<<<<<< HEAD
 Wir nutzen über das Internet zugängliche und auf den eigenen Servern ausgeführte Softwaredienste (Nextcloud) für die folgenden Zwecke: Dokumentenspeicherung und Verwaltung, Kalenderverwaltung, E-Mail-Versand, Tabellenkalkulationen und Präsentationen, Austausch von Dokumenten, Inhalten und Informationen mit bestimmten Empfängern oder Veröffentlichung von Webseiten, Formularen oder sonstigen Inhalten und Informationen sowie Chats und Teilnahme an Audio- und Videokonferenzen. In diesem Rahmen können personenbezogenen Daten verarbeitet und auf den Servern gespeichert werden, soweit dieser Bestandteil von Kommunikationsvorgängen mit uns sind oder von uns sonst, wie im Rahmen dieser Datenschutzerklärung dargelegt, verarbeitet werden. Zu diesen Daten können insbesondere Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, sonstigen Prozessen und deren Inhalte gehören. Wir verarbeiten ferner Nutzungsdaten und Metadaten, die zu Sicherheitszwecken verwendet werden. Sofern wir mit Hilfe der Cloud-Dienste für andere Nutzer oder öffentlich zugängliche Webseiten Formulare o.a. Dokumente und Inhalte bereitstellen, können die Anbieter Cookies auf den Geräten der Nutzer für Zwecke der Webanalyse oder, um sich Einstellungen der Nutzer (z.B. im Fall der Mediensteuerung) zu merken, speichern. Hinweise zu Rechtsgrundlagen: Sofern wir um eine Einwilligung in den Einsatz der Cloud-Dienste bitten, ist die Rechtsgrundlage der Verarbeitung die Einwilligung. Ferner kann deren Einsatz ein Bestandteil unserer (vor)vertraglichen Leistungen sein, sofern der Einsatz der Cloud-Dienste in diesem Rahmen vereinbart wurde. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h., Interesse an effizienten und sicheren Verwaltungs- und Kollaborationsprozessen) verarbeitet Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Benutzernamen), Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), Nutzungsdaten (z.B. Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen). • Betroffene Personen: Nutzer der Clounddienste • Zwecke der Verarbeitung: Organisationsverfahren. • Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+=======
+Wir nutzen über das Internet zugängliche und auf den eigenen Servern ausgeführte Softwaredienste (Nextcloud) für die folgenden Zwecke: 
+* Dokumentenspeicherung und Verwaltung, 
+* Kalenderverwaltung, 
+* E-Mail-Versand, 
+* Tabellenkalkulationen und Präsentationen, 
+* Austausch von Dokumenten, 
+* Inhalten und Informationen mit bestimmten Empfängern oder Veröffentlichung von Webseiten, 
+* Formularen oder sonstigen Inhalten und 
+* Informationen sowie Chats und Teilnahme an Audio- und Videokonferenzen. 
+
+In diesem Rahmen können personenbezogenen Daten verarbeitet und auf den Servern gespeichert werden, soweit dieser Bestandteil von Kommunikationsvorgängen mit uns sind oder von uns sonst, wie im Rahmen dieser Datenschutzerklärung dargelegt, verarbeitet werden. Zu diesen Daten können insbesondere Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, sonstigen Prozessen und deren Inhalte gehören. Wir verarbeiten ferner Nutzungsdaten und Metadaten, die zu Sicherheitszwecken verwendet werden. 
+
+Sofern wir mit Hilfe der Cloud-Dienste für andere Nutzer oder öffentlich zugängliche Webseiten Formulare o.a. Dokumente und Inhalte bereitstellen, können die Anbieter Cookies auf den Geräten der Nutzer für Zwecke der Webanalyse oder, um sich Einstellungen der Nutzer (z.B. im Fall der Mediensteuerung) zu merken, speichern. 
+
+## Hinweise zu Rechtsgrundlagen: 
+
+Sofern wir um eine Einwilligung in den Einsatz der Cloud-Dienste bitten, ist die Rechtsgrundlage der Verarbeitung die Einwilligung. Ferner kann deren Einsatz ein Bestandteil unserer (vor)vertraglichen Leistungen sein, sofern der Einsatz der Cloud-Dienste in diesem Rahmen vereinbart wurde. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h., Interesse an effizienten und sicheren Verwaltungs- und Kollaborationsprozessen) verarbeitet.
+
+### Verarbeitete Datenarten: 
+* Bestandsdaten (z.B. Namen, Adressen), 
+* Kontaktdaten (z.B. E-Mail, Benutzernamen), 
+* Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos), 
+* Nutzungsdaten (z.B. Interesse an Inhalten, Zugriffszeiten), 
+* Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen). 
+
+### Betroffene Personen: 
+Nutzer der Clounddienste 
+
+### Zwecke der Verarbeitung: 
+Organisationsverfahren. 
+
+### Rechtsgrundlagen: 
+Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+>>>>>>> 3de00a6 (Website Content & Style updated)
 
 # Änderung und Aktualisierung der Datenschutzerklärung
 
