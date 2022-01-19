@@ -3474,13 +3474,6 @@ figure {
     font-size: 1.7rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
     font-weight: 600;
-<<<<<<< HEAD
-    color: #212121; }
-  .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
-  .navigation .navigation-title {
-    letter-spacing: 0.1rem;
-=======
     color: #212121;
     text-decoration: none; }
   .navigation a:hover, .navigation a:focus {
@@ -3488,7 +3481,6 @@ figure {
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     font-weight: bolder;
->>>>>>> 3de00a6 (Website Content & Style updated)
     text-transform: uppercase; }
   .navigation .navigation-list {
     float: right;

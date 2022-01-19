@@ -6,9 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Felix"
 +++
 
-<<<<<<< HEAD
-Hier folgen in naher Zukunft Imformationen zu meiner Persona.
-=======
 👋🏽 Moin, ich bin Felix
 
 🎓 Ich bin Maschinenbauingenieur und studiere aktuell Produktionstechnik mit der Vertiefung Informationstechnik an der TU Berlin.
@@ -23,4 +20,3 @@ Hier folgen in naher Zukunft Imformationen zu meiner Persona.
 
 **Mehr Informationen zu mir findest du in meinem [Lebenslauf](/Lebenslauf) oder auf [LinkedIn](https://www.linkedin.com/in/felix-förster/)**
 
->>>>>>> 3de00a6 (Website Content & Style updated)

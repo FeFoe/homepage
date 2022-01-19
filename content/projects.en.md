@@ -1,11 +1,4 @@
 +++
-<<<<<<< HEAD
-title = "Projetos"
-slug = "projects"
-+++
-
-Nothing to see here!
-=======
 title = "Projects"
 slug = "projects"
 +++
@@ -30,4 +23,3 @@ The aim of the thesis was to explain the basics about artificial intelligence an
 **Project thesis**  
 *Grade: 1.3*  
 Commercial software in the field of computational fluid dynamics (CFD) is expensive. With the open-source CFD software OpenFOAM these calculations can be performed without additional license costs. The project investigated to what extent OpenFOAM can be an alternative to commercial CFD software. For this purpose, a numerical flow calculation was performed on a diaphragm valve for which experimental data and data from commercial CFD software were already available.
->>>>>>> 3de00a6 (Website Content & Style updated)

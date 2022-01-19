@@ -1,11 +1,4 @@
 +++
-<<<<<<< HEAD
-title = "Projects"
-slug = "projects"
-+++
-
-Hier gibt es nichts zu sehen... Kommen Sie später wieder!
-=======
 title = "Projekte"
 slug = "Projekte"
 aliases = ["projects"]
@@ -32,4 +25,3 @@ Ziel der Arbeit war es, die Grundlagen zu künstlicher Intelligenz und maschinel
 **Projektarbeit**  
 *Note: 1,3*  
 Kommerzielle Software im Bereich der numerischen Strömungssimulation (engl.: Computational Fluid Dynamics; CFD) sind sehr hochpreisig. Mit der Open-Source-CFD Software OpenFOAM lassen sich diese Berechnungen ohne zusätzliche Lizenzkosten durchführen. In dem Projekt wurde untersucht, inwiefern OpenFOAM eine Alternative zu kommerzieller CFD-Software sein kann. Dazu wurde eine numerische Strömungsberechnung an einem Membranventil, für das bereits experimentelle Daten und Daten aus kommerziellen CFD-Softwares vorlagen, durchgeführt.
->>>>>>> 3de00a6 (Website Content & Style updated)

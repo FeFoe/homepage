@@ -2,10 +2,6 @@
 title = "Kontakt"
 description = "Felix Förster, Maschinenbauingenieur"
 date = "2022-01-18"
-<<<<<<< HEAD
-aliases = ["Impressum"]
-=======
->>>>>>> 3de00a6 (Website Content & Style updated)
 author = "Felix"
 +++
 
