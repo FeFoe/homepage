@@ -8,7 +8,7 @@ author = "Felix"
 
 # Ausbildung
 ### Studium: [Produktionstechnik, Vertiefung Informationstechnik](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/produktionstechnik-m-sc/)
-**Technische Universität Berlin**
+**Technische Universität Berlin**  
 *Oktober 2022 - heute*  
 Master of Science  
 
