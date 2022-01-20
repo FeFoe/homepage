@@ -14,9 +14,9 @@ author = "Felix"
 
 💪🏽 Als dualer Student konnte ich bei der MTU Maintenance-Berlin Brandenburg das erlernte Wissen in insgesamt 85 Wochen anwenden. Spannende Projekte habe ich dabei überwiegend in der Arbeitsvorbereitung, dem Process Engineering, der Konstruktion durchgeführt.
 
-💻 Was meine Zukunft betrifft, hoffe ich, an der spannenden Schnittstelle zwischen dem Maschinenbau und der Informationstechnologie zu arbeiten und dabei helfen, Deutschland im Bereich Smart Factory/ Industrie 4.0 gut aufzustellen. Insbesondere die Datenauswertung im Bereich Qualitätsmanagement begeistert mich.
+💻 Was meine Zukunft betrifft, hoffe ich, an der spannenden Schnittstelle zwischen dem Maschinenbau und der Informationstechnologie zu arbeiten und dabei zu helfen, Deutschland im Bereich Smart Factory/ Industrie 4.0 gut aufzustellen. Insbesondere die Datenauswertung im Bereich Qualitätsmanagement begeistert mich.
 
-🏔 In meiner Freizeit bin ich ehrenamtlich aktiv, debattiere in der [BDU](https://debating.de/) und bin in unserer Stipendiatengruppe aktiv und außerdem betreibe ich eine Handvoll selbergehostete Softwarelösungen.
+🏔 In meiner Freizeit bin ich ehrenamtlich aktiv, debattiere in der [BDU](https://debating.de/) und bin in unserer Stipendiatengruppe der Konrad-Adenauer-Stiftung als Gruppensprecher aktiv und außerdem betreibe ich eine Handvoll selbergehosteter Softwarelösungen.
 
 **Mehr Informationen zu mir findest du in meinem [Lebenslauf](/Lebenslauf) oder auf [LinkedIn](https://www.linkedin.com/in/felix-förster/)**
 
