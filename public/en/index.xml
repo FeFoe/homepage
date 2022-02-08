@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foerster.Engineer</title>
+    <link>https://Foerster.engineer/en/</link>
+    <description>Recent content on Foerster.Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://Foerster.engineer/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Foerster.engineer/en/about/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/about/</guid>
+      <description>👋🏽 Hi, I&amp;rsquo;m Felix.
+🎓 I&amp;rsquo;m a mechanical engineer and currently studying production engineering with a specialization in information technology at the TU Berlin.
+🎓 Before that, I completed a dual intensive degree program (210 ECTS) in mechanical engineering at the HWR Berlin in six semesters.
+💪🏽 As a dual student, I was able to apply the knowledge I had gained in a total of 85 weeks at MTU Maintenance-Berlin Brandenburg.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://Foerster.engineer/en/impressum/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/impressum/</guid>
+      <description>Service provider    Felix Förster
+Hedwigstr. 17
+49744 Geeste
+Contact options    E-mail address: Impressum@Foerster.Engineer
+Phone: +49 176 82515 933
+Liability and property rights information    Disclaimer: The contents of this online offer have been prepared carefully and according to our current knowledge, but are for information purposes only and do not have any legally binding effect, unless it is legally binding information (eg the imprint, privacy policy, terms and conditions or mandatory consumer instructions).</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://Foerster.engineer/en/datenschutz/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/datenschutz/</guid>
+      <description>Introduction    With the following data protection declaration, we would like to inform you about the types of your personal data (hereinafter also referred to as &amp;ldquo;data&amp;rdquo; for short) that we process, for what purposes and to what extent. The data protection declaration applies to all processing of personal data carried out by us, both as part of the provision of our services and, in particular, on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively referred to as the &amp;ldquo;Online Offer&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://Foerster.engineer/en/lebenslauf/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/lebenslauf/</guid>
+      <description>Education    Studies: Production engineering, specialization in information technology    Technical University of Berlin
+October 2022 - today
+Master of Science
+ Focuses on data evaluation in quality management.  Study: Design and Manufacturing, Mechanical Engineering    Berlin School of Economics and Law.
+October 2018 - September 2021
+Bachelor of Engineering with 210 ECTS
+ Average grade: 1.8 (ECTS grade B) Bachelor thesis: &amp;ldquo;Design and testing of rotating lances for intensity enhancement in shot peening&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Foerster.engineer/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/contact/</guid>
+      <description>I can be reached through the following means:
+ Email: Felix@Foerster.Engineer LinkedIn  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Foerster.engineer/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/en/projects/</guid>
+      <description>Digital twin: medical equipment cart.    Developing a digital twin concept and prototype for monitoring medical devices and a medical device cart. For more information, see the Github page.
+Design and testing of rotating lances for intensity improvement in shot peening.    Bachelor&amp;rsquo;s thesis
+Grade: 1.7
+Publication restricted until 2023
+Study on the state of development of “Artificial Intelligence” in research and industry.    Project thesis</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foerster.engineer</title>
+    <link>https://Foerster.engineer/</link>
+    <description>Recent content on Foerster.engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Foerster.engineer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>https://Foerster.engineer/datenschutz/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/datenschutz/</guid>
+      <description>Einleitung    Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://Foerster.engineer/impressum/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/impressum/</guid>
+      <description>Diensteanbieter    Felix Förster
+Hedwigstr. 17
+49744 Geeste
+Kontaktmöglichkeiten    E-Mail-Adresse: Impressum@Foerster.Engineer
+Telefon: +49 176 82515 933
+Haftungs- und Schutzrechtshinweise    Haftungsausschluss: Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach unserem aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.B. das Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://Foerster.engineer/contact/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/contact/</guid>
+      <description>Über folgende Wege bin ich erreichbar:
+ E-Mail: Felix@Foerster.Engineer LinkedIn  </description>
+    </item>
+    
+    <item>
+      <title>Lebenslauf</title>
+      <link>https://Foerster.engineer/lebenslauf/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/lebenslauf/</guid>
+      <description>Ausbildung    Studium: Produktionstechnik, Vertiefung Informationstechnik    Technische Universität Berlin
+Oktober 2022 - heute
+Master of Science
+ Schwerpunkte im Bereich Datenauswertung im Qualitätsmanagement  Studium: Konstruktion und Fertigung, Maschinenbau    Hochschule für Wirtschaft und Recht Berlin
+Oktober 2018 - September 2021
+Bachelor of Engineering mit 210 ECTS
+ Durchschnittsnote: 1,8 (ECTS-Grade B) Bachelorarbeit: &amp;ldquo;Konstruktion und Erprobung rotierender Lanzen zur Intensitätserhöhung beim Kugelstrahlen&amp;rdquo; Projektarbeiten:  &amp;ldquo;Numerische Berechnungen der Strömungs-Verhältnisse in einem Membranventil mit der OpenSource CFD-Software OpenFOAM&amp;rdquo; &amp;ldquo;Studie zum Stand der Entwicklung &amp;ldquo;Künstliche Intelligenz&amp;rdquo; in Forschung und Industrie&amp;rdquo;   Weiterentwicklung von CURB-Rennfahrzeug der Formula Student-Klasse Verschiedene Ehrenämter in der Hochschulpolitik  Allgemeine Hochschulreife    Windthorst-Gymnasium Meppen</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://Foerster.engineer/about/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/about/</guid>
+      <description>👋🏽 Moin, ich bin Felix
+🎓 Ich bin Maschinenbauingenieur und studiere aktuell Produktionstechnik mit der Vertiefung Informationstechnik an der TU Berlin.
+🎓 Vorher habe ich in sechs Semestern einen dualen Intensivstudiengang (210 ECTS) an der HWR Berlin in der Fachrichtung Maschinenbau abgeschlossen.
+💪🏽 Als dualer Student konnte ich bei der MTU Maintenance-Berlin Brandenburg das erlernte Wissen in insgesamt 85 Wochen anwenden. Spannende Projekte habe ich dabei überwiegend in der Arbeitsvorbereitung, dem Process Engineering, der Konstruktion durchgeführt.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>https://Foerster.engineer/posts/markdown-syntax.pt-br/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/markdown-syntax.pt-br/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://Foerster.engineer/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo Rico</title>
+      <link>https://Foerster.engineer/posts/rich-content.pt-br/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://Foerster.engineer/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>https://Foerster.engineer/posts/more-rich-content.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>https://Foerster.engineer/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://Foerster.engineer/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Texto de Exemplo</title>
+      <link>https://Foerster.engineer/posts/placeholder-text.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>https://Foerster.engineer/posts/math-typesetting.pt-br/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://Foerster.engineer/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://Foerster.engineer/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Suporte a Emojis</title>
+      <link>https://Foerster.engineer/posts/emoji-support.pt-br/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/emoji-support.pt-br/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>https://Foerster.engineer/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>https://Foerster.engineer/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://Foerster.engineer/projekte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Foerster.engineer/projekte/</guid>
+      <description>Digitaler Zwilling: Medizingerätewagen    Entwicklung eines digitalen Zwillingskonzept und -prototyp zur Überwachung von medizinischen Geräten und einem Medizingerätewagen. Weitere Informationen dazu gibt&amp;rsquo;s auf der Github-Seite.
+Konstruktion und Erprobung rotierender Lanzen zur Intensitätserhöhung beim Kugelstrahlen    Bachelorarbeit
+Note: 1,7
+Sperrvermerk bis 2023
+Studie zum Stand der Entwicklung „Künstliche Intelligenz“ in Forschung und Industrie    Projektarbeit
+Note: 1,0
+Ziel der Arbeit war es, die Grundlagen zu künstlicher Intelligenz und maschinellen Lernens zu erklären und anschließend die weltweite Verbreitung und Bedeutung der KI und ihrer Anwendungen zu analysieren.</description>
+    </item>
+    
+  </channel>
+</rss>
